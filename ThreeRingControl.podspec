@@ -36,5 +36,7 @@ s.resources    = "ThreeRingControl/*.mp3"
 
 s.pod_target_xcconfig = { 'SWIFT_VERSION' => '3' }
 
+s.dependency "RealmSwift"
+
  
 end

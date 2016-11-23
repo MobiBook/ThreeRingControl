@@ -23,6 +23,7 @@
 
 import UIKit
 
+
 enum RingIndex : Int {
   case inner  = 0
   case middle = 1

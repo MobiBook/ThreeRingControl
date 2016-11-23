@@ -5,8 +5,9 @@ target 'ThreeRingControl' do
   # Comment the next line if you're not using Swift and don't want to use dynamic frameworks
   use_frameworks!
 
-pod 'Realm', git: 'https://github.com/realm/realm-cocoa.git', branch: 'master’,:submodules => true
-pod 'RealmSwift', git: 'https://github.com/realm/realm-cocoa.git', branch: 'master’,:submodules => true
+#pod 'Realm', git: 'https://github.com/realm/realm-cocoa.git', branch: #’master’,:submodules => true
+
+#pod 'RealmSwift', git: 'https://github.com/realm/realm-cocoa.git', branch: #’master’,:submodules => true
   # Pods for ThreeRingControl
 
   target 'ThreeRingControlTests' do
